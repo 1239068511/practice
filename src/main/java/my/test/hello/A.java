@@ -14,5 +14,6 @@ public class A {
         System.out.println("这里是gitLab");
         System.out.println("这里是gitLab");
         System.out.println("这是");
+        System.out.println("这是merger");
     }
 }
