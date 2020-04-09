@@ -9,4 +9,7 @@ package my.test.hello;
  * @data 2020/4/9
  **/
 public class A {
+    public static void main(String[] args) {
+        
+    }
 }
